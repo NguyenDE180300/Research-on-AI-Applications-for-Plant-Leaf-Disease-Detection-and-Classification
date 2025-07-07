@@ -1,0 +1,3 @@
+## Dataset
+The dataset comprises four distinct plant species, encompassing 14 disease categories, each paired with a corresponding textual description. To ensure data consistency and reduce intra-class variability, images were captured at a standardized distance. Descriptive information about the disease symptoms was carefully compiled from authoritative sources such as the University of Minnesota Extension (UME), the National Institutes of Health (NIH), and peer-reviewed literature, resulting in high-quality annotations that facilitate advanced research in AI-based plant disease diagnosis.
+The full version of the dataset has been published at https://ieee-dataport.org/documents/leafnet-large-scale-dataset-training-image-text-models-leaf-disease-identification
